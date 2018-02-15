@@ -1,0 +1,4 @@
+*.lock
+CharacterSheet/bin/*
+CharacterSheet/obj/*
+appsettings*
